@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\bin\Debug\net7.0-windows\Q1.exe
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\bin\Debug\net7.0-windows\Q1.deps.json
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\bin\Debug\net7.0-windows\Q1.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\bin\Debug\net7.0-windows\Q1.dll
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\bin\Debug\net7.0-windows\Q1.pdb
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.Form1.resources
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.dll
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\refint\Q1.dll
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.pdb
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\Q1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab10\Q1\Q1\obj\Debug\net7.0-windows\ref\Q1.dll

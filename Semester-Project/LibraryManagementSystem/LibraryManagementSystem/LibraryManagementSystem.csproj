@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="LibraryPic.jpg" />
+    <None Remove="LibraryPic2.png" />
+    <None Remove="LibraryPic4.png" />
+    <None Remove="lms_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="LibraryPic4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="LibraryPic.jpg" />
+    <Resource Include="LibraryPic2.png" />
+    <Resource Include="lms_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+</Project>

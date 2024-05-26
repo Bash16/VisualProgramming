@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\bin\Debug\net7.0\Example7.exe
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\bin\Debug\net7.0\Example7.deps.json
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\bin\Debug\net7.0\Example7.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\bin\Debug\net7.0\Example7.dll
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\bin\Debug\net7.0\Example7.pdb
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.dll
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\refint\Example7.dll
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.pdb
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\Example7.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab06_2\Example7\Example7\obj\Debug\net7.0\ref\Example7.dll

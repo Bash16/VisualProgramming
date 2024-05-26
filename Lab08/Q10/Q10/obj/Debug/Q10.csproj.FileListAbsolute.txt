@@ -1,0 +1,11 @@
+C:\Users\213000\source\repos\Lab08\Q10\Q10\bin\Debug\Q10.exe.config
+C:\Users\213000\source\repos\Lab08\Q10\Q10\bin\Debug\Q10.exe
+C:\Users\213000\source\repos\Lab08\Q10\Q10\bin\Debug\Q10.pdb
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.csproj.AssemblyReference.cache
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.csproj.SuggestedBindingRedirects.cache
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.Form1.resources
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.Properties.Resources.resources
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.csproj.GenerateResource.cache
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.exe
+C:\Users\213000\source\repos\Lab08\Q10\Q10\obj\Debug\Q10.pdb

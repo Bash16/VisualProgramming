@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Q2\Q2\bin\Debug\net7.0\Q2.exe
+C:\Users\Hp\source\repos\Q2\Q2\bin\Debug\net7.0\Q2.deps.json
+C:\Users\Hp\source\repos\Q2\Q2\bin\Debug\net7.0\Q2.runtimeconfig.json
+C:\Users\Hp\source\repos\Q2\Q2\bin\Debug\net7.0\Q2.dll
+C:\Users\Hp\source\repos\Q2\Q2\bin\Debug\net7.0\Q2.pdb
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.dll
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\refint\Q2.dll
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.pdb
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\Q2.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Q2\Q2\obj\Debug\net7.0\ref\Q2.dll

@@ -1,0 +1,17 @@
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\bin\Debug\net6.0-windows\LabMid_213000.exe
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\bin\Debug\net6.0-windows\LabMid_213000.deps.json
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\bin\Debug\net6.0-windows\LabMid_213000.runtimeconfig.json
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\bin\Debug\net6.0-windows\LabMid_213000.dll
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\bin\Debug\net6.0-windows\LabMid_213000.pdb
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.csproj.AssemblyReference.cache
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.Form1.resources
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.csproj.GenerateResource.cache
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.AssemblyInfoInputs.cache
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.AssemblyInfo.cs
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.csproj.CoreCompileInputs.cache
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.dll
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\refint\LabMid_213000.dll
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.pdb
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\LabMid_213000.genruntimeconfig.cache
+C:\Users\213000\source\repos\LabMid_213000\LabMid_213000\obj\Debug\net6.0-windows\ref\LabMid_213000.dll

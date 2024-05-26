@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Lab10\E1\E1\bin\Debug\net7.0\E1.exe
+C:\Users\Hp\source\repos\Lab10\E1\E1\bin\Debug\net7.0\E1.deps.json
+C:\Users\Hp\source\repos\Lab10\E1\E1\bin\Debug\net7.0\E1.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab10\E1\E1\bin\Debug\net7.0\E1.dll
+C:\Users\Hp\source\repos\Lab10\E1\E1\bin\Debug\net7.0\E1.pdb
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.dll
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\refint\E1.dll
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.pdb
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\E1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab10\E1\E1\obj\Debug\net7.0\ref\E1.dll

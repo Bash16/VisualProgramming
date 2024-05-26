@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="pgAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminAddBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminHome.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminSignUp1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminSignUp2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminViewBookDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminViewBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminViewFineInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgAdminViewUserInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserHome.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserIssueBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserReturnBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserSignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserViewBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pgUserViewFineInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminAddBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminHome.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminSignUp1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminSignUp2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminViewBookDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminViewBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminViewFineInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgAdminViewUserInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserHome.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserIssueBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserReturnBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserSignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserViewBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pgUserViewFineInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
